@@ -1,1 +1,1 @@
-Just trying out HTML and CSS.
+Trying out HTML and CSS.
